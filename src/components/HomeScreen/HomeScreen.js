@@ -1,6 +1,6 @@
 import React from "react";
 import styles from './HomeScreen.css';
-import Navigation from "../Navigation/Navigation";
+import Navigation from "./Navigation/Navigation";
 
 const HomeScreen = () => {
   return (
