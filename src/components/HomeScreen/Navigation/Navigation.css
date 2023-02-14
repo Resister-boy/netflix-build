@@ -25,7 +25,7 @@
   top: 10px;
   left: 0;
   width: 80px;
-  object-fill: contain;
+  object-fit: contain;
   padding-left: 20px;
   cursor: pointer;
 }

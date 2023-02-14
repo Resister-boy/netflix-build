@@ -1,0 +1,11 @@
+.banner {
+  position: relative;
+  height: 440px;
+  color: #fff;
+  object-fit: contain;
+}
+
+.ban_contents {
+  margin-left: 30px;
+  padding-top: 140px;
+} 
